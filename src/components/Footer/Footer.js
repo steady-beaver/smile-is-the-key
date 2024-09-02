@@ -20,7 +20,7 @@ const Footer = () => {
             </div>
 
             <div className={styles.newsletterInput}>
-              <label htmlFor="newsletter" className={`${''} textS bold`}>
+              <label htmlFor="newsletter" className={`${' '} textS bold`}>
                 Sign up to newsletter
               </label>
               <Newsletter />
